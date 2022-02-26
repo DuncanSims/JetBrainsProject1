@@ -1,1 +1,1 @@
-
+This is a repo containing a Kotlin project I created as part of a JetBrains tutorial. It converts numbers between bases from 2-35 including fractions. At this point it doesn't have any input validation or exception logging. 
